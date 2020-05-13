@@ -1,1 +1,45 @@
+Goals:
 
+Cards
+    Title
+    Type
+    Drawing
+    Text
+    Playable
+    Giveable
+    Editable
+    front and back
+    visibility or ownership zones / locations
+
+Basic Art Editor
+pick image
+
+active player tracker/turn tracker/token
+    token has "it's your turn"
+
+
+GroupOfCards
+
+Attributes attachable to Cards
+
+persistent objects between sessions
+
+Players
+    icon/representation
+Table
+zoom / inspect feature
+
+real time or updated automatically each second
+
+accessible for free
+
+Netcode*
+
+
+
+
+
+
+save for later:
+    rng die roll / coin toss
+    chat system
