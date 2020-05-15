@@ -56,17 +56,3 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
-
-# Crashlytics generated file
-crashlytics-build.properties
-Assets/TextMesh Pro/Documentation/
-Assets/TextMesh Pro/Resources/
-Assets/Plugins/KinematicCharacterController/ExampleCharacter/
-Assets/Plugins/KinematicCharacterController/UserGuide.pdf
-Assets/Plugins/KinematicCharacterController/UserGuide.pdf.meta
-Assets/Plugins/KinematicCharacterController/Walkthrough.pdf
-Assets/Plugins/KinematicCharacterController/Walkthrough.pdf.meta
-Assets/TextMesh Pro/Examples & Extras.meta
-Assets/Plugins/KinematicCharacterController/ExampleCharacter.meta
-Assets/Plugins/KinematicCharacterController/Walkthrough.meta
-Assets/Plugins/KinematicCharacterController/Examples.meta
